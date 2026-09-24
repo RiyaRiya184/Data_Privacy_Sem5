@@ -337,8 +337,7 @@ The following screenshots can be included as evidence:
 | ---------------------------- | -------------------------------------------------- |
 | `01-ramanujan-homepage.png`  | Ramanujan College official homepage                |
 | `02-erp-login.png`           | ERP / student login page                           |
-| `03-student-services.png`    | Relevant student-services page                     |
-| `04-privacy-information.png` | Privacy-related information, if publicly available |
+| `03-student-services.png`    | Relevant student-services page                     | |
 
 **Important:** Personal information, usernames, student IDs, passwords, phone numbers, email addresses, and other sensitive information must be hidden before uploading screenshots.
 
