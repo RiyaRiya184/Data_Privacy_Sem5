@@ -161,4 +161,15 @@ The audit provides a structured approach to examining privacy-related features a
 3. Samarth e-Gov — Official Website: https://samarth.edu.in/
 
 ---
+## Screenshots
 
+### 1. Samarth Portal Homepage
+
+![Samarth Homepage](https://github.com/RiyaRiya184/Data_Privacy_Sem5/blob/a278c83133200c712005c11b1d5ab5aaff4b1e3e/Practical-01-Samarth-Privacy-Audit/pr%201%20data%20privacy.png)
+
+
+
+### 2. Privacy Information
+
+![Privacy Information](
+https://github.com/RiyaRiya184/Data_Privacy_Sem5/blob/a278c83133200c712005c11b1d5ab5aaff4b1e3e/Practical-01-Samarth-Privacy-Audit/pr%201%20data%20privacy%20img%202.png)
