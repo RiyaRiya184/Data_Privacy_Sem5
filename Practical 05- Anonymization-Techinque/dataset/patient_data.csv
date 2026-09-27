@@ -1,0 +1,21 @@
+Patient_ID,Name,Age,Gender,City,Disease,Salary,Phone,Email
+P001,Aarav Sharma,21,Male,Delhi,Diabetes,35000,9000000001,patient01@example.com
+P002,Riya Verma,24,Female,Delhi,Asthma,42000,9000000002,patient02@example.com
+P003,Arjun Mehta,27,Male,Delhi,Hypertension,38000,9000000003,patient03@example.com
+P004,Neha Gupta,29,Female,Delhi,Diabetes,45000,9000000004,patient04@example.com
+P005,Karan Singh,23,Male,Delhi,Asthma,40000,9000000005,patient05@example.com
+P006,Ananya Kapoor,25,Female,Delhi,Hypertension,37000,9000000006,patient06@example.com
+P007,Rohan Malhotra,32,Male,Noida,Diabetes,52000,9000000007,patient07@example.com
+P008,Priya Nair,35,Female,Noida,Asthma,48000,9000000008,patient08@example.com
+P009,Aditya Rao,37,Male,Noida,Hypertension,55000,9000000009,patient09@example.com
+P010,Simran Kaur,39,Female,Noida,Diabetes,51000,9000000010,patient10@example.com
+P011,Vivek Joshi,34,Male,Noida,Asthma,46000,9000000011,patient11@example.com
+P012,Ishita Jain,36,Female,Noida,Hypertension,53000,9000000012,patient12@example.com
+P013,Manav Bansal,42,Male,Gurugram,Diabetes,65000,9000000013,patient13@example.com
+P014,Meera Iyer,45,Female,Gurugram,Asthma,61000,9000000014,patient14@example.com
+P015,Rahul Sethi,47,Male,Gurugram,Hypertension,68000,9000000015,patient15@example.com
+P016,Kavya Mishra,49,Female,Gurugram,Diabetes,63000,9000000016,patient16@example.com
+P017,Dev Khanna,44,Male,Gurugram,Asthma,59000,9000000017,patient17@example.com
+P018,Sanya Arora,46,Female,Gurugram,Hypertension,67000,9000000018,patient18@example.com
+P019,Yash Tandon,28,Male,Delhi,Diabetes,43000,9000000019,patient19@example.com
+P020,Tanya Sood,26,Female,Delhi,Asthma,41000,9000000020,patient20@example.com
