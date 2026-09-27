@@ -1,0 +1,6 @@
+DIFFERENTIAL PRIVACY RESULT
+---------------------------
+Actual number of Diabetes patients: 7
+Epsilon: 1.0
+Laplace noise: 0.0858
+Differentially private count: 7.0858
