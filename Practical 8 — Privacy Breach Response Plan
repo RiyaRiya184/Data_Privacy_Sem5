@@ -1,0 +1,118 @@
+# Practical 8 – Privacy Breach Response Plan
+
+## Aim
+
+To develop a systematic Privacy Breach Response Plan for detecting, containing, investigating, and recovering from a personal data breach.
+
+## Scenario
+
+A company's database containing customer personal information has been accessed by an unauthorized person.
+
+The potentially affected information includes:
+
+* Names
+* Email addresses
+* Phone numbers
+* Account information
+* Other personal details
+
+## Objectives
+
+* To understand the stages of responding to a privacy breach.
+* To identify the cause and scope of a breach.
+* To minimize damage.
+* To protect affected individuals.
+* To restore secure operations.
+* To prevent similar incidents in the future.
+
+## Breach Response Plan
+
+### 1. Detection
+
+Identify unusual activity and confirm whether a privacy breach has occurred.
+
+Examples:
+
+* Unauthorized login.
+* Unusual database access.
+* Suspicious network activity.
+* Unexpected data transfers.
+
+### 2. Immediate Containment
+
+The affected systems should be isolated to prevent further unauthorized access.
+
+Actions may include:
+
+* Disable compromised accounts.
+* Block suspicious access.
+* Isolate affected systems.
+* Preserve relevant logs and evidence.
+
+### 3. Investigation
+
+Determine:
+
+* What happened?
+* When did it happen?
+* Which systems were affected?
+* What information was exposed?
+* How many individuals may be affected?
+* What was the cause?
+
+### 4. Risk Assessment
+
+Assess the possible consequences of the breach.
+
+Consider:
+
+* Type of data exposed.
+* Number of affected individuals.
+* Possibility of identity theft or fraud.
+* Sensitivity of information.
+* Likelihood of further misuse.
+
+### 5. Notification
+
+Where required by applicable law or organizational policy, appropriate authorities and affected individuals should be notified.
+
+The notification should communicate relevant information clearly and provide appropriate protective steps.
+
+### 6. Recovery
+
+Restore affected systems after ensuring that vulnerabilities have been addressed.
+
+Actions include:
+
+* Reset compromised credentials.
+* Patch vulnerabilities.
+* Restore secure backups.
+* Monitor systems for further suspicious activity.
+
+### 7. Post-Incident Review
+
+After recovery, the organization should determine:
+
+* What caused the incident?
+* Which controls failed?
+* What should be improved?
+* What additional security measures are required?
+
+## Preventive Measures
+
+* Strong passwords.
+* Multi-factor authentication.
+* Encryption.
+* Role-based access control.
+* Regular security audits.
+* Employee security training.
+* Secure backups.
+* Continuous monitoring.
+
+## Result
+
+A structured privacy breach response plan was developed covering detection, containment, investigation, risk assessment, notification, recovery, and prevention.
+
+## Conclusion
+
+A well-defined breach response plan helps organizations respond quickly to privacy incidents, reduce potential harm, protect affected individuals, and improve security controls to prevent future breaches.
