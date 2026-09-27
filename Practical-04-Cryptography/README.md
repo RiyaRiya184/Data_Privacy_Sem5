@@ -108,7 +108,7 @@ After applying the appropriate decryption operation with the correct key and par
 ### Screenshot
 
 ![AES Encryption](https://github.com/RiyaRiya184/Data_Privacy_Sem5/blob/ba4268508098a65ccbb3d4224b9b335ad5ee9fec/Practical-04-Cryptography/aes-encryption.png)
-
+![AES Decryption](https://github.com/RiyaRiya184/Data_Privacy_Sem5/blob/fc3f36d928fad1ac4b0868078f9614f99797fee5/Practical-04-Cryptography/aes-decryption.png)
 # Experiment 2: Hashing Using SHA-256
 
 ## Objective
@@ -151,14 +151,7 @@ This demonstrates the sensitivity of cryptographic hashes to changes in the inpu
 A small change in the input produces a substantially different hash value. Therefore, cryptographic hashing can be used to detect changes to data and verify integrity.
 
 ### Screenshot
-
-Save the screenshot as:
-
-```text
-screenshots/sha256-hashing.png
-```
-
----
+![Hashing](https://github.com/RiyaRiya184/Data_Privacy_Sem5/blob/fc3f36d928fad1ac4b0868078f9614f99797fee5/Practical-04-Cryptography/sha256-hashing.png)
 
 # Experiment 3: Digital Signature
 
@@ -198,14 +191,7 @@ If the message is modified after signing, the signature should no longer validat
 | Modified message + original signature | Verification should fail |
 
 ### Screenshot
-
-Save the screenshot as:
-
-```text
-screenshots/digital-signature.png
-```
-
----
+![RSA verification](https://github.com/RiyaRiya184/Data_Privacy_Sem5/blob/fc3f36d928fad1ac4b0868078f9614f99797fee5/Practical-04-Cryptography/rsa-verifiction.png)
 
 # Comparison of Cryptographic Techniques
 
