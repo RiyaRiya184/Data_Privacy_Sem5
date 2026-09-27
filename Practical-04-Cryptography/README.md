@@ -107,13 +107,7 @@ After applying the appropriate decryption operation with the correct key and par
 
 ### Screenshot
 
-Save the screenshot as:
-
-```text
-screenshots/aes-encryption.png
-```
-
----
+![AES Encryption](https://github.com/RiyaRiya184/Data_Privacy_Sem5/blob/ba4268508098a65ccbb3d4224b9b335ad5ee9fec/Practical-04-Cryptography/aes-encryption.png)
 
 # Experiment 2: Hashing Using SHA-256
 
