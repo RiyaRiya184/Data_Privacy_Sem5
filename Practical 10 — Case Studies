@@ -1,0 +1,109 @@
+# Practical 10 – Data Privacy Case Studies
+
+## Aim
+
+To study real-world data privacy incidents and understand their causes, consequences, and important privacy lessons.
+
+## Objectives
+
+* To understand real-world privacy incidents.
+* To identify common causes of data breaches.
+* To understand the impact of privacy failures.
+* To identify preventive measures.
+* To understand the importance of responsible data management.
+
+# Case Study 1 – Facebook and Cambridge Analytica
+
+## Background
+
+The Facebook–Cambridge Analytica incident involved the collection and use of Facebook user data through a third-party application and raised significant concerns about user consent, data access, and the use of personal information.
+
+## Privacy Issues
+
+* Third-party access to user information.
+* Lack of adequate control over how information was used.
+* Concerns regarding transparency and consent.
+* Large-scale processing of personal information.
+
+## Privacy Lessons
+
+* Third-party applications require appropriate access controls.
+* Users should have meaningful information about how their data is used.
+* Data should not be used beyond authorized purposes.
+* Organizations should carefully monitor third-party data access.
+
+# Case Study 2 – Equifax Data Breach
+
+## Background
+
+Equifax experienced a major cybersecurity breach in 2017 in which sensitive personal information was exposed.
+
+## Privacy Issues
+
+The incident demonstrated the consequences that can result when security vulnerabilities affecting systems containing sensitive personal information are not adequately addressed.
+
+## Privacy Lessons
+
+* Security vulnerabilities should be identified and patched promptly.
+* Sensitive information requires strong security controls.
+* Organizations should continuously monitor critical systems.
+* Effective incident response is essential.
+
+# Case Study 3 – Healthcare Data Privacy
+
+## Background
+
+Healthcare organizations process highly sensitive information such as medical records, diagnoses, prescriptions, and patient identifiers.
+
+## Privacy Risks
+
+* Unauthorized access to medical records.
+* Accidental disclosure.
+* Insider misuse.
+* Cyberattacks.
+* Insecure data sharing.
+
+## Privacy Protection Measures
+
+* Encryption.
+* Strong authentication.
+* Role-based access control.
+* Audit logs.
+* Secure data transmission.
+* Employee training.
+* Appropriate data retention policies.
+
+# Common Lessons from the Case Studies
+
+| Issue                     | Required Protection       |
+| ------------------------- | ------------------------- |
+| Unauthorized access       | Access control            |
+| Data theft                | Encryption and monitoring |
+| Third-party access        | Permission management     |
+| Weak security             | Security audits           |
+| Excessive data collection | Data minimization         |
+| Privacy incidents         | Incident response plan    |
+| Lack of transparency      | Clear privacy policies    |
+
+## Preventive Measures
+
+Organizations should:
+
+1. Implement strong access controls.
+2. Encrypt sensitive information.
+3. Regularly patch software.
+4. Monitor suspicious activity.
+5. Conduct privacy assessments.
+6. Minimize unnecessary data collection.
+7. Control third-party access.
+8. Train employees.
+9. Maintain an incident response plan.
+10. Review privacy practices regularly.
+
+## Result
+
+Three data privacy case studies were examined and their major privacy issues, risks, lessons, and preventive measures were identified.
+
+## Conclusion
+
+Real-world privacy incidents demonstrate that effective data privacy requires both technical security controls and responsible data governance. Organizations must protect personal information throughout its lifecycle and continuously improve their privacy and security practices.
