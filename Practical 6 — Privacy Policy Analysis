@@ -1,0 +1,107 @@
+# Practical 6 – Privacy Policy Analysis
+
+## Aim
+
+To analyze the privacy policy of a website and understand how personal data is collected, processed, stored, shared, and protected.
+
+## Website Selected
+
+Google
+
+## Objectives
+
+* To understand the purpose of a privacy policy.
+* To identify the types of personal information collected.
+* To study how collected information is used.
+* To identify data-sharing practices.
+* To understand user privacy controls and rights.
+* To identify important privacy and security measures.
+
+## Theory
+
+A privacy policy is a document that explains how an organization collects, uses, stores, shares, and protects users' personal information.
+
+A privacy policy generally provides information about:
+
+* Types of data collected.
+* Purpose of data collection.
+* Data processing and usage.
+* Cookies and similar technologies.
+* Data sharing with third parties.
+* Data retention.
+* Security measures.
+* User choices and privacy controls.
+
+## Privacy Policy Analysis
+
+### 1. Information Collection
+
+Web services may collect information provided directly by users as well as information generated through the use of their services.
+
+Examples include:
+
+* Name
+* Email address
+* Phone number
+* Account information
+* Device information
+* Usage information
+
+### 2. Purpose of Collection
+
+Personal information may be processed to:
+
+* Provide requested services.
+* Maintain and improve services.
+* Maintain account security.
+* Communicate with users.
+* Personalize services.
+* Detect abuse and security threats.
+
+### 3. Cookies and Similar Technologies
+
+Cookies and similar technologies can be used to remember user preferences, maintain sessions, understand website usage, and support certain service features.
+
+### 4. Data Sharing
+
+Personal information may be shared in circumstances described by the applicable privacy policy, such as with service providers, for legal requirements, or with user permission where applicable.
+
+### 5. Data Security
+
+Organizations use technical and organizational safeguards to protect information against unauthorized access, alteration, disclosure, or destruction.
+
+### 6. User Privacy Controls
+
+Users may have controls related to:
+
+* Account information
+* Activity history
+* Advertising preferences
+* Cookies
+* Location information
+* Data deletion
+
+## Privacy Risks Identified
+
+* Collection of large amounts of user information.
+* Tracking through cookies and similar technologies.
+* Risks associated with third-party services.
+* Unauthorized access if account security is compromised.
+* Privacy concerns arising from excessive data collection.
+
+## Recommendations
+
+* Collect only information necessary for the stated purpose.
+* Clearly explain data collection practices.
+* Provide meaningful privacy controls.
+* Use strong authentication and encryption.
+* Regularly review third-party data access.
+* Provide mechanisms for users to manage or delete their information where applicable.
+
+## Result
+
+The privacy policy was analyzed and important aspects of data collection, usage, sharing, security, and user privacy controls were identified.
+
+## Conclusion
+
+Privacy policy analysis helps users understand how organizations handle personal information. A clear privacy policy improves transparency and helps users make informed decisions about the use of their data.
