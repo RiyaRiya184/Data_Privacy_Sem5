@@ -1,0 +1,138 @@
+# Practical 7 – Privacy-Enhancing Technologies
+
+## Aim
+
+To study different Privacy-Enhancing Technologies (PETs) and understand how they help protect personal information while allowing data to be processed and used.
+
+## Objectives
+
+* To understand the concept of Privacy-Enhancing Technologies.
+* To study different PETs.
+* To understand how PETs reduce privacy risks.
+* To identify practical applications of PETs.
+* To understand the relationship between privacy and data security.
+
+## Theory
+
+Privacy-Enhancing Technologies are technologies and techniques designed to reduce the collection, exposure, or misuse of personal information while allowing legitimate data processing.
+
+Important PETs include:
+
+1. Encryption
+2. Anonymization
+3. Pseudonymization
+4. Differential Privacy
+5. Tokenization
+6. Access Control
+
+## 1. Encryption
+
+Encryption converts readable information (plaintext) into an unreadable form (ciphertext).
+
+Only an authorized party possessing the appropriate key can decrypt the information.
+
+### Applications
+
+* Secure communication
+* Online banking
+* Cloud storage
+* Password protection
+* Secure transactions
+
+## 2. Anonymization
+
+Anonymization modifies or removes identifying information so that an individual cannot easily be identified from the resulting dataset.
+
+Examples include:
+
+* Removing names.
+* Generalizing ages.
+* Removing phone numbers.
+* Replacing detailed locations with broader regions.
+
+## 3. Pseudonymization
+
+Pseudonymization replaces identifying information with artificial identifiers.
+
+For example:
+
+```text
+Original: Riya Sharma
+Pseudonym: USER_1024
+```
+
+Unlike complete anonymization, pseudonymized data may potentially be linked back to an individual when additional information is available.
+
+## 4. Differential Privacy
+
+Differential privacy protects individuals by adding carefully controlled statistical noise to query results.
+
+A common mechanism is the Laplace mechanism:
+
+```text
+M(D) = f(D) + Laplace(0, Δf/ε)
+```
+
+where:
+
+* `f(D)` is the original query result.
+* `Δf` is query sensitivity.
+* `ε` controls the privacy level.
+
+## 5. Tokenization
+
+Tokenization replaces sensitive information with a token that has no meaningful value outside the authorized system.
+
+Example:
+
+```text
+Credit Card Number → TOKEN_839274
+```
+
+The original information is stored separately in a secure system.
+
+## 6. Access Control
+
+Access control ensures that only authorized users can access specific information.
+
+Examples:
+
+* Role-based access control.
+* Password authentication.
+* Multi-factor authentication.
+* Permission-based access.
+
+## Applications of PETs
+
+PETs are commonly useful in:
+
+* Healthcare
+* Banking
+* E-commerce
+* Education
+* Government services
+* Cloud computing
+* Research
+
+## Advantages
+
+* Reduces privacy risks.
+* Protects sensitive information.
+* Supports secure data processing.
+* Reduces unauthorized access.
+* Helps organizations follow privacy principles.
+
+## Limitations
+
+* Some techniques may reduce data accuracy.
+* Implementation can require additional resources.
+* Stronger privacy may reduce analytical usefulness.
+* No single technology provides complete privacy protection.
+
+## Result
+
+Different Privacy-Enhancing Technologies were studied, including encryption, anonymization, pseudonymization, differential privacy, tokenization, and access control.
+
+## Conclusion
+
+Privacy-Enhancing Technologies provide important methods for reducing privacy risks. Combining appropriate PETs with organizational policies and security controls can provide stronger protection for personal information.
